@@ -176,7 +176,9 @@ Created feature branch and raised Pull Request for review.
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/9ebd4ac6-e62a-45c9-a893-b6e05649f718" />
 
 <img width="871" height="528" alt="image" src="https://github.com/user-attachments/assets/10043c42-9250-453b-b865-b542770eb73a" />
-<
+
+
+Strapi application successfully deployed on AWS EC2 using Terraform modules.
 
 
 
